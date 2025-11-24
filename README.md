@@ -10,6 +10,9 @@ This prototype accepts PDF (scanned or digital) and text input, detects PII (ema
 - `redaction_log.json` — structured detection log with confidence heuristics
 
 
+## Demo Video 
+Watch the walkthrough video here:  
+🔗 https://go.screenpal.com/watch/cTXZ2InqT88
 
 ## How to run (Google Colab)
 1. Open `PII_Redaction_Notebook.ipynb` in Colab.  
