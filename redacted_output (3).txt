@@ -1,0 +1,71 @@
+----- PAGE 1 -----
+Example 1: [NAMES_2]
+
+Document:
+Library Checkout Record
+
+[ORGS_2]: [NAMES_1]
+[NAMES_2] ID: LC-[PHONES_1]
+Email: [EMAILS_3]
+Phone: (555) 123-4567
+
+Book Title: "Secrets of the [ORGS_1] @ [EMAILS_6]"
+Author: Dr. [NAMES_3]
+Publisher: [EMAILS_1]
+
+Return Date: Sept 21, 2025
+Notes: [ORGS_2] mentioned her new office address is 44 [LOCATIONS_1],
+[LOCATIONS_2].
+
+ 
+
+Example 2: [NAMES_4]
+
+Document:
+
+From: [NAMES_7]
+
+To: [EMAILS_2]
+Date: July 14, 2025
+
+Message:
+Hi, I can't log into my account. My username is sarahlee91.
+
+Please reset it.
+
+PS: Loved reading '[EMAILS_4]' - amazing sci-fi novel.
+
+Example 3: HR Record
+
+Document:
+Employee Record
+
+Name: [NAMES_5]
+
+Employee ID: EMP-4456
+
+Email: rajesh. [EMAILS_7]
+Manager: [NAMES_6]
+
+Office: 22nd [NAMES_8], Tower B
+
+Training Notes: '[EMAILS_5]' is just the name of a training
+module, not an email address to redact.
+
+Example 4: Product Review
+
+Document:
+
+
+----- PAGE 2 -----
+Product Review
+
+Reviewer: [NAMES_1]: [EMAILS_2]
+Location: [LOCATIONS_1], [ORGS_1] headphones! I loved the hidden track titled
+'[EMAILS_1]' in the demo CD.
+
+ 
+
+Published: Aug 2, 2025
+
+
